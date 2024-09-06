@@ -1,0 +1,1 @@
+from scapsnif.analyzer.analyzer import Analyzer
